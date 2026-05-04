@@ -1,0 +1,5 @@
+/* css/style.css */
+@import url('https://fonts.googleapis.com/css2?...');
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+/* all your existing CSS */
