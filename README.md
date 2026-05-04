@@ -26,4 +26,3 @@ I’m always open to research and design collaborations.
 🐙 GitHub: https://github.com/ninabernardtran
 
 Content © Nina Bernard-Tran. Code may be reused with attribution.
-``
