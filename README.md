@@ -24,5 +24,6 @@ I’m always open to research and design collaborations.
 
 📧 Email: ninabernardtran@gmail.com  
 🐙 GitHub: https://github.com/ninabernardtran
-``
+
 Content © Nina Bernard-Tran. Code may be reused with attribution.
+``
