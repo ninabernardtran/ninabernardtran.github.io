@@ -2,7 +2,7 @@
 
 Deaf design researcher working at the intersection of **accessibility, instructional design, and AI**.
 
-🌱 Focus areas:
+Focus areas:
 - Deaf / HCI research
 - Accessibility & WCAG
 - AI and sociotechnical systems
@@ -11,7 +11,7 @@ Deaf design researcher working at the intersection of **accessibility, instructi
 ## 🔗 Live Site
 👉 https://ninabernardtran.github.io
 
-## 📌 What’s in this repo
+## What’s in this repo
 This repository hosts my personal portfolio site, built with:
 - HTML
 - CSS
@@ -19,10 +19,10 @@ This repository hosts my personal portfolio site, built with:
 
 The site highlights my research projects, skills, and values as a Deaf scholar and designer.
 
-## 🤝 Collaboration
+## Collaboration
 I’m always open to research and design collaborations.
 
 📧 Email: ninabernardtran@gmail.com  
-🐙 GitHub: https://github.com/ninabernardtran
+GitHub: https://github.com/ninabernardtran
 
 Content © Nina Bernard-Tran. Code may be reused with attribution.
